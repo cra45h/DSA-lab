@@ -1,0 +1,9 @@
+﻿  driver.cpp
+C:\Users\ukash\Desktop\Journals\lab2\lab2\stack.cpp(189,34): warning C4244: 'argument': conversion from 'double' to 'ItemType', possible loss of data
+C:\Users\ukash\Desktop\Journals\lab2\lab2\stack.cpp(189,34): warning C4244:         with
+C:\Users\ukash\Desktop\Journals\lab2\lab2\stack.cpp(189,34): warning C4244:         [
+C:\Users\ukash\Desktop\Journals\lab2\lab2\stack.cpp(189,34): warning C4244:             ItemType=int
+C:\Users\ukash\Desktop\Journals\lab2\lab2\stack.cpp(189,34): warning C4244:         ]
+  stack.cpp
+  Generating Code...
+  lab2.vcxproj -> C:\Users\ukash\Desktop\Journals\lab2\x64\Debug\lab2.exe

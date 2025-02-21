@@ -1,0 +1,5 @@
+﻿  driver.cpp
+C:\Users\ukash\Desktop\Journals\lab2\lab2\driver.cpp(5,6): warning C4101: 'var': unreferenced local variable
+  stack.cpp
+  Generating Code...
+  lab2.vcxproj -> C:\Users\ukash\Desktop\Journals\lab2\lab2\x64\Debug\lab2.exe
